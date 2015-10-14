@@ -28,6 +28,7 @@ XXXXXXXX<br>
 
 ## Extra Credit
 Please indicate which extra credit you are attempting.
+
 1. (1 point) Ask the user for the character to use instead of always using `'X'`.
 2. (2 points) Allow the user to draw a rectangle.
 
